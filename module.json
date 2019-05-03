@@ -1,0 +1,11 @@
+{
+    "name": "Red-HP-Bar-for-party-members-Persona-5-inspired",
+    "category": "client",
+    "description": "Turns party HP bars red with light green stun/debuff effect.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Red HP Bar for party members Persona 5",
+        "niceName": "Red HP Bar for party members Persona 5 inspired"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Red-HP-Bar-for-party-members-Persona-5-inspired/master/"]
+}
