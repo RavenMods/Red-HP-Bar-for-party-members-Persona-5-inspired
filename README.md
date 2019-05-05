@@ -1,6 +1,9 @@
-## Changelog:
+## Features:
 
-- 1.0 Initial release
-- 1.1 Changed stun/ debuff color 
+- Red: Party members HP and pet/partner gather bar
+- Light green: Debuff and stun
+- Dark gray: pvp and duel (enemy player)
+- Green: thralls and summons
+
 
 Check out my [Tumblr](https://tera-raven.tumblr.com/).

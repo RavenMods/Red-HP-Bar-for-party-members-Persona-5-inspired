@@ -1,7 +1,7 @@
 {
     "name": "Red-HP-Bar-for-party-members-Persona-5-inspired",
     "category": "client",
-    "description": "Turns party HP bars red with light green stun/debuff effect.",
+    "description": "Turns party HP bars red, light green stun/debuff effect and dark gray for enemy players.",
     "author": "Raven",
     "options": {
         "guiName": "UI: Red HP Bar for party members Persona 5",
